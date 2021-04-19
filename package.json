@@ -17,15 +17,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hanf92/pdf-viewer.git"
+    "url": "git+https://github.com/fmarcoccia/pdf-viewer.git"
   },
   "bugs": {
-    "url": "https://github.com/Hanf92/pdf-viewer/issues"
+    "url": "https://github.com/fmarcoccia/pdf-viewer/issues"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@fmarcoccia"
   },
-  "homepage": "https://github.com/Hanf92/pdf-viewer",
+  "homepage": "https://github.com/fmarcoccia/pdf-viewer",
   "scripts": {
     "build": "stencil build --docs",
     "start": "stencil build --dev --watch --serve",
