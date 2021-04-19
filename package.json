@@ -15,6 +15,14 @@
     "dist/",
     "loader/"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hanf92/pdf-viewer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hanf92/pdf-viewer/issues"
+  },
+  "homepage": "https://github.com/Hanf92/pdf-viewer",
   "scripts": {
     "build": "stencil build --docs",
     "start": "stencil build --dev --watch --serve",
