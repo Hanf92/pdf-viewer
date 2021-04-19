@@ -1,6 +1,6 @@
 {
   "name": "@fmarcoccia/pdf-viewer",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "author": "Fabio Marcoccia <fabio@marcoccia.net>",
   "description": "Stencil Component Starter",
   "main": "dist/index.cjs.js",
