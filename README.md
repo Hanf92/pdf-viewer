@@ -1,2 +1,2 @@
 # pdf-viewer
-A small and simple pdf viewer stencil component
+![PDV VIEWER](logo/pdf-viewer.png)
