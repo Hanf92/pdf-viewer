@@ -68,7 +68,7 @@ export class PdfViewer {
       return (<img src={error_icon} alt={'pdf not loaded'} height={25}/>)
     }
     return (
-      <iframe src={this.iframeSrc} class={this.customClass ? this.customClass : ''}/>
+      <iframe src={this.iframeSrc} part={this.customClass ? this.customClass : ''}/>
     );
   }
 
