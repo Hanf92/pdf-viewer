@@ -11,7 +11,6 @@ export const createPDFUrl = async (url: string): Promise<string> => {
       resolve(URL.createObjectURL(file))
     } catch (e){
       console.error('Ops createPdfUrl error --> ', e)
-      console.log('ops i did it again')
       reject(e)
     }
   });
